@@ -1,0 +1,21 @@
+.App {
+	text-align: center;
+}
+
+.App-nav {
+	padding: 2em;
+	background-color: slategray;
+	color: white;
+}
+
+button {
+	padding: 0.75em 1.5em;
+	background-color: rgb(248, 198, 180);
+	cursor: pointer;
+	border: none;
+	border-radius: 4px;
+}
+
+a {
+	text-decoration: none;
+}
